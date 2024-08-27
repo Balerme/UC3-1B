@@ -5,9 +5,24 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
-
+1. Switch
+2. Array
+3. Introdução do JavaScript
+4. String
+5. Number
+6. Boolean
+7. Variavel
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
 
+1. [Desafio do Tik Tok]
+   (https://drive.google.com/file/d/12-3PfLQqS4azbVkw05RTXPh5Z-d4sfwO/view?usp=sharing)
 
+2. [Escrever as codificações do JavaScript no Codepen e escrever o que elas fazem]
+
+3. [Criar situações do cotidiano, como comprar um livro, usando Array e Switch]
+   (https://codepen.io/Jo-o-Guilherme-Moura-de-Ara-jo/pen/ZEdaeyM)
+
+   (https://codepen.io/Jo-o-Guilherme-Moura-de-Ara-jo/pen/OJezNRz)
+
+   
