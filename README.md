@@ -25,4 +25,7 @@ Escreva aqui os conteúdos aprendidos.
 
    (https://codepen.io/Jo-o-Guilherme-Moura-de-Ara-jo/pen/OJezNRz)
 
-   
+4. Atividade Avaliativa de 7 questões(feito no papel)
+
+5. [Atividade de Array: usar 3 metodos de Array]
+(https://codepen.io/Jo-o-Guilherme-Moura-de-Ara-jo/pen/RwzEgZq)
