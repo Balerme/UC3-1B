@@ -1,9 +1,7 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
-Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
 
-## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
+## Conteúdo Aprendido
 
 1. Switch
 2. Array
@@ -12,6 +10,9 @@ Escreva aqui os conteúdos aprendidos.
 5. Number
 6. Boolean
 7. Variavel
+8. Function
+9. If else
+10. Operadores Lógicos e Comparativos
 
 ## Atividades desenvolvidas
 
@@ -29,3 +30,9 @@ Escreva aqui os conteúdos aprendidos.
 
 5. [Atividade de Array: usar 3 metodos de Array]
 (https://codepen.io/Jo-o-Guilherme-Moura-de-Ara-jo/pen/RwzEgZq)
+
+6. [Atividade para programar um jogo no codepen, utilizando function]
+(https://codepen.io/ed-the-scripter/pen/ExqYYvm)
+
+## Resumo
+
